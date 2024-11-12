@@ -1,2 +1,6 @@
 # PlayWrightWithJs
-This is the demo using playwrigth js
+Install the playwright to the project this will install nessery file 
+```
+npm init playwright@latest
+```
+
